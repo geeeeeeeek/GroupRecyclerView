@@ -63,8 +63,6 @@ public class MainActivity extends Activity {
         data.add(new Contact(4, "aaaaa"));
         data.add(new Contact(4, "aaaaa"));
         data.add(new Contact(4, "aaaaa"));
-        data.add(new Contact(4, "aaaaa"));
-        data.add(new Contact(4, "aaaaa"));
 
 
         contactsAdapter = new ContactsAdapter(this, data);
